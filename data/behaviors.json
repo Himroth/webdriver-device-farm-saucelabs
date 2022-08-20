@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "shoud list products",
+    "uid" : "5763c36b09a5d1bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1661019580636,
+      "stop" : 1661019583713,
+      "duration" : 3077
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "00008020-001A484A2E79002E-15.6.1" ]
+  }, {
+    "name" : "should search by Ingrid",
+    "uid" : "6936a8472ef41891",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1661019628376,
+      "stop" : 1661019634954,
+      "duration" : 6578
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "00008101-001A416918C1401E-15.6.1" ]
+  } ],
+  "name" : "behaviors"
+}

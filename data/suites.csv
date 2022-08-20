@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 20 18:20:28 UTC 2022","Sat Aug 20 18:20:34 UTC 2022","6578","","Search products","","Search products","should search by Ingrid","should search by Ingrid",""
+"passed","Sat Aug 20 18:19:40 UTC 2022","Sat Aug 20 18:19:43 UTC 2022","3077","","Product List","","Product List","shoud list products","shoud list products",""

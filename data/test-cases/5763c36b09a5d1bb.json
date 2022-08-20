@@ -1,0 +1,74 @@
+{
+  "uid" : "5763c36b09a5d1bb",
+  "name" : "shoud list products",
+  "fullName" : "Product List.shoud list products",
+  "historyId" : "4c28e321475447e6b60c1c9c8bcffa37",
+  "time" : {
+    "start" : 1661019580636,
+    "stop" : 1661019583713,
+    "duration" : 3077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "85be130459c420a4",
+      "name" : "Execution video",
+      "source" : "85be130459c420a4.mp4",
+      "type" : "video/mp4",
+      "size" : 186
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Product List"
+  }, {
+    "name" : "testClass",
+    "value" : "Product List"
+  }, {
+    "name" : "testMethod",
+    "value" : "shoud list products"
+  }, {
+    "name" : "package",
+    "value" : "Product List"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "00008020-001A484A2E79002E-15.6.1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5763c36b09a5d1bb.json",
+  "parameterValues" : [ "00008020-001A484A2E79002E-15.6.1" ]
+}
